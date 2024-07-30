@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hey, I am Vraj
 Full Stack Web Developer and final year CSE student
-- 🔭 I’m currently working on a full stack completely functional social media application
+- 🔭 I’m currently working on completely functional full stack social media application
 - 🌱 I’m currently learning NextJS,Redux
 - 💬 Ask me about ReactJS, TailwindCSS, NodeJS, PostGRES.
 - 📫 How to reach me: shahvraj1500@gmail.com
