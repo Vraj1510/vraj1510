@@ -1,6 +1,5 @@
 ## Hi there 👋
-Hey, I am Vraj!
-Full Stack Web Developer and final year CSE student.
+Hello, I'm Vraj, a Full Stack Web Developer and a final-year Computer Science and Engineering student.
 - 🔭 I’m currently working on completely functional full stack social media application.
 - 🌱 I’m currently learning NextJS,Redux.
 - 💬 Ask me about ReactJS, TailwindCSS, NodeJS, PostGRES.
