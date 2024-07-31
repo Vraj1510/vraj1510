@@ -33,7 +33,6 @@ Hello, I'm Vraj, a Full Stack Web Developer and a final-year Computer Science an
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vraj1510&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vraj1510&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vraj1510&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
