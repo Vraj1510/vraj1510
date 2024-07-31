@@ -31,6 +31,8 @@ Hello, I'm Vraj, a Full Stack Web Developer and a final-year Computer Science an
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vraj1510&theme=shadow_blue&hide_border=false)<br/>
