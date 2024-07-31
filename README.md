@@ -32,6 +32,8 @@ Hello, I'm Vraj, a Full Stack Web Developer and a final-year Computer Science an
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=flat&logo=netlify&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%CB3837.svg?style=flat&logo=npm&logoColor=white)
+
 
 
 # 📊 GitHub Stats:
