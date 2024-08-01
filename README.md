@@ -49,7 +49,7 @@ Hello, I'm Vraj, a Full Stack Web Developer and a final-year Computer Science an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vraj1510&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-https://codeforces-readme-stats.vercel.app/api/card?username=shahvraj1500&theme=default&disable_animations=false&show_icons=true&force_username=false
+
 ## Codeforces
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=shahvraj1500&theme=default&disable_animations=false&show_icons=true&force_username=false)](https://codeforces.com/profile/redheadphone)
 
