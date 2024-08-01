@@ -54,7 +54,7 @@ Hello, I'm Vraj, a Full Stack Web Developer and a final-year Computer Science an
 
 
 ## ⌛ GitHub Most Used Packages 
-[![Vraj's GitHub | Dependencies](https://stats.quine.sh/Vraj1510/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dpvasani)
+[![Vraj's GitHub | Dependencies](https://stats.quine.sh/vraj1510/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dpvasani)
 
 
 
