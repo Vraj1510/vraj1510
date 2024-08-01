@@ -49,6 +49,8 @@ Hello, I'm Vraj, a Full Stack Web Developer and a final-year Computer Science an
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Vraj1510&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?shahvraj1500=redheadphone)](https://codeforces.com/profile/redheadphone)
+
 ## Leetcode
 ![](https://leetcard.jacoblin.cool/Vraj1510?ext=activity)
 
